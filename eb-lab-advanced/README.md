@@ -36,7 +36,7 @@ psql postgres://postgres:password@localhost:5432/study-sync
 
 https://github.com/omenking/aws-bootcamp-cruddur-2023/blob/main/journal/week04.md
 
-### Create a postgres table
+### Create a postgres table mod
 
 ## Create Schema
 
